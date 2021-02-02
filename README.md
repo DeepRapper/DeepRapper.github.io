@@ -12,16 +12,14 @@ Carved it with thousands of years of glow \\
 When the autumn wind blow fallen leaves, \\ 
 tens of thousands of sand flow from your \\ 
 fingers  \\
-	孤烟昨夜饮战马 \\
-	Lonely smoke accompany with war horse \\
-	last night \\
-	这一道风沙万里敬天涯 \\
-	The wind and sand compose the world \\
-	这一页河水洗去旧伤疤 \\
-	The river water washes away old scars on \\
-	this page \\
-	这一刻月色如昨夜烟花 \\
-	The moonlight at this moment is like last \\
-	night's fireworks \\
+孤烟昨夜饮战马 \\
+Lonely smoke accompany with war horse \\
+last night \\
+这一道风沙万里敬天涯 \\
+The wind and sand compose the world \\
+这一页河水洗去旧伤疤 \\
+The river water washes away old scars on this page \\
+这一刻月色如昨夜烟花 \\
+The moonlight at this moment is like last night's fireworks \\
 ```
 
