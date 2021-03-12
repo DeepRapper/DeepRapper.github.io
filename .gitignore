@@ -1,0 +1,5 @@
+*.ipynb
+*.txt
+*.swp
+test*
+.ipynb_checkpoints/
